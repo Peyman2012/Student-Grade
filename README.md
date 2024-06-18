@@ -11,4 +11,5 @@ It turns the scores above 100 into the maximum scores so that we don't have a sc
     y_pred_test = np.clip(y_pred2, 0, 100)
     
 Project link on my Kaggle page:
+
 https://www.kaggle.com/code/peimandaii/student-grades-ml
