@@ -9,3 +9,6 @@ By using this code, the data can be scaled:
 It turns the scores above 100 into the maximum scores so that we don't have a score above 100 to have a more beautiful plot
 
     y_pred_test = np.clip(y_pred2, 0, 100)
+    
+Project link on my Kaggle page:
+https://www.kaggle.com/code/peimandaii/student-grades-ml
